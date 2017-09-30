@@ -1,0 +1,6 @@
+framework module Pods_demoAlamo003 {
+  umbrella header "Pods-demoAlamo003-umbrella.h"
+
+  export *
+  module * { export * }
+}
